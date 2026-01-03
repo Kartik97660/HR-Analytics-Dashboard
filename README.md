@@ -90,74 +90,67 @@ Useful for designing inclusive retention and benefit strategies
 
 # 5. Tools & Technologies
 
-Tableau – Interactive dashboards and visual analytics
+1) Tableau – Interactive dashboards and visual analytics
 
-Microsoft Excel – Data preparation and preprocessing
+2) Microsoft Excel – Data preparation and preprocessing
 
-HR Analytics Dataset – Structured employee-level data
+3) HR Analytics Dataset – Structured employee-level data
 
 # 6. Dataset Description
 
 The dataset contains anonymized employee information, including:
 
-Employee ID
-
-Age
-
-Gender
-
-Department
-
-Job Role
-
-Education Field
-
-Job Satisfaction Rating
-
-Attrition Status
+- Employee ID
+- Age
+- Gender
+- Department
+- Job Role
+- Education Field
+- Job Satisfaction Rating
+- Attrition Status
 
 The data is structured to support both aggregate and segmented analysis.
 
 # 7. Methodology
 
-Data cleaning and validation performed in Excel
+- Data cleaning and validation performed in Excel
 
-Measures and calculated fields created in Tableau
+- Measures and calculated fields created in Tableau
 
-Age binning and attrition metrics standardized
+- Age binning and attrition metrics standardized
 
-Interactive filters implemented for drill-down analysis
+- Interactive filters implemented for drill-down analysis
 
-Dashboard optimized for executive-level consumption
+- Dashboard optimized for executive-level consumption
 
 # 8. Business Value
 
-This dashboard enables organizations to:
+- This dashboard enables organizations to:
 
-Identify high-risk attrition segments proactively
+- Identify high-risk attrition segments proactively
 
-Allocate retention budgets more effectively
+- Allocate retention budgets more effectively
 
-Support data-backed HR policy decisions
+- Support data-backed HR policy decisions
 
-Improve workforce stability and engagement outcomes
+- Improve workforce stability and engagement outcomes
 
 # 9. Intended Audience
 
-HR Managers and HR Business Partners
+- HR Managers and HR Business Partners
 
-Business Analysts and People Analytics teams
+- Business Analysts and People Analytics teams
 
-Senior leadership involved in workforce strategy
+- Senior leadership involved in workforce strategy
 
-Recruiters evaluating analytics and visualization capability
+- Recruiters evaluating analytics and visualization capability
 
 # 10. Future Scope
 
-Predictive attrition modeling using historical trends
+- Predictive attrition modeling using historical trends
 
-Integration of compensation and tenure data
+- Integration of compensation and tenure data
 
-Manager-level attrition analysis
+- Manager-level attrition analysis
 
-Scenario simulation for retention strategies
+- Scenario simulation for retention strategies
