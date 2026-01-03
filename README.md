@@ -5,7 +5,7 @@ This project delivers a comprehensive HR Analytics dashboard designed to analyze
 
 The solution consolidates key workforce indicators into a single, interactive view, allowing stakeholders to identify attrition hotspots, demographic risk segments, and role-specific satisfaction patterns.
 
-<img width="1382" height="775" alt="Dashboard" src="https://github.com/user-attachments/assets/a0251e3f-1784-4b95-9d9f-e4a0ac36b2a1" />
+![Dashboard](https://github.com/user-attachments/assets/058974e6-a976-47c0-a44c-fc1428d47446)
 
 # 2. Business Objective
 
