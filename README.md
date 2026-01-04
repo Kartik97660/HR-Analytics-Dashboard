@@ -42,7 +42,7 @@ These KPIs provide immediate context for deeper analytical exploration.
 
 Identifies departments contributing disproportionately to overall attrition
 
-Sales emerges as the largest contributor, while HR records minimal attrition
+R&D emerges as the largest contributor, while HR records minimal attrition
 
 Enables prioritization of department-specific retention initiatives
 
@@ -50,7 +50,7 @@ Enables prioritization of department-specific retention initiatives
 
 4.2 Workforce Distribution by Age Group
 
-Majority of employees fall within the 25–39 age range
+Majority of employees fall within the 24–40 age range
 
 Attrition risk peaks in early- to mid-career stages
 
